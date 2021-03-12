@@ -35,6 +35,6 @@
 
 ## Author
 
-- Website - [Chinyanga TL](https://github.com/beyonce-beytwice)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/beyonce-beytwice)
+- Github - [Chinyanga TL](https://github.com/ChinyangaTL)
+- Frontend Mentor - [@beyonce-beytwice](https://www.frontendmentor.io/profile/beyonce-beytwice)
 
